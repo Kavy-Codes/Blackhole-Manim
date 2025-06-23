@@ -4,7 +4,7 @@ This repository contains a Python script and rendered video clip demonstrating a
 
 ## 🎬 Preview
 
-https://github.com/Kavy-Codes/assets/blackhole.mp4
+https://github.com/Kavy-Codes/Blackhole-Manim/issues/2#issue-3169043322
 
 
 > 🎥 Made using **Python** + **Manim**
