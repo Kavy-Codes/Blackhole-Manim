@@ -9,7 +9,7 @@ https://github.com/Kavy-Codes/Blackhole-Manim/issues/2#issue-3169043322
 
 >  Made using **Python** + **Manim**
 
-![Black Hole Frame](explanation.png)
+![Black Hole Frame](draw.png)
 
 ##  Files
 
