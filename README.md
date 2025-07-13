@@ -14,7 +14,7 @@ https://github.com/Kavy-Codes/Blackhole-Manim/issues/2#issue-3169043322
 ##  Files
 
 - `blackhole.py` – Manim script that generates the animation.
-- `blackhole.mp4` – Rendered output of the animation (if included).
+- `blackhole.mp4` – Rendered output of the animation
 - `README.md` – Project overview.
 
 ##  Requirements
